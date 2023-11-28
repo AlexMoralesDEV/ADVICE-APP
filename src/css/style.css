@@ -23,12 +23,12 @@ body{
     background-color: rgb(61, 9, 128);
 }
 
-.container h4{
+.container h2{
     padding: 25px;
 }
 
 #conselho{
-    padding: 25px 0;
+    padding: 40px 0;
 }
 
 .container button {
