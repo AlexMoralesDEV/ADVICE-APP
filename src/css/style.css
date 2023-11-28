@@ -9,6 +9,7 @@
 
 body{
     height: 100vh;
+    background-color: rgb(32, 2, 70);
     display: flex;
     justify-content: center;
     align-items: center;
